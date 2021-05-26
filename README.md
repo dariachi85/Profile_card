@@ -10,7 +10,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dariachi85/profile_card)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/mobile-first-responsive-site-using-flexbox-and-media-query-hc-WHFtzH)
 - Live Site URL: [Add live site URL here](https://dariachi85.github.io/profile_card/)
 
 ## My process
